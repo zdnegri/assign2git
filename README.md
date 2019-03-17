@@ -3,4 +3,8 @@ Zachary Negri
 
 First Comment
 
-Testbranch Change
+
+This is a change on newbranch - conflict resolved
+
+Testbranch Change - Conflict resolved
+
